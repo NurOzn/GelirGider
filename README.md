@@ -3,6 +3,10 @@
 
 A personal income-expense tracking app built with Flutter.
 
+
+Built while transitioning from native Android (Kotlin) development to Flutter. This project was used to practice Dart, GetX state management, and cross-platform architecture patterns.
+
+
 ## Features
 
 - Track income and expense transactions
